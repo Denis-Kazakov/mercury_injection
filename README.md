@@ -7,7 +7,9 @@ A study project to predict mercury injection capillary pressure (MICP) curve. Th
 For details, please see the notebooks:
 
 00_EDA - exploratory data analysis
+
 01_regression - solution of the problem as stated
+
 02_volume_vs_pressure - an alternative solution: volume vs pressure, assuming pressure values are independent variables
 
 
